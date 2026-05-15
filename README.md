@@ -60,7 +60,6 @@ I have experience in Java, ASP.NET, and web technologies, and I enjoy solving pr
 
 ## 🔥 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilmaurya6\&layout=compact\&theme=tokyonight)
 
 ---
 
