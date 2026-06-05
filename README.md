@@ -54,15 +54,13 @@ I have experience in Java, ASP.NET, and web technologies, and I enjoy solving pr
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=nikhilmaurya6\&show_icons=true\&theme=tokyonight)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nikhilmaurya6&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🔥 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilmaurya6\&layout=compact\&theme=tokyonight)
-
----
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nikhilmaurya6&layout=compact&theme=tokyonight)---
 
 ## 🎓 Education
 
